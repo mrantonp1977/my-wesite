@@ -1,0 +1,94 @@
+h1 {
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: blue;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+
+
+.container {
+  background-color: rgb(101, 190, 29);
+  
+  
+
+  display: flex;
+  
+  
+  justify-content: space-evenly;
+ 
+  margin: 150px;
+  border: 2px solid red;
+
+}
+
+
+
+
+
+
+.container-item1 {
+  background-color: rgb(226, 38, 141);
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  width: 70px;
+  line-height: 50px;
+  margin: 10px;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 100px;
+}
+
+.container-item2 {
+  background-color: rgb(226, 38, 141);
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  width: 70px;
+  line-height: 50px;
+  margin: 10px;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 100px;
+  align-self: flex-start;
+}
+.container-item3 {
+  background-color: rgb(226, 38, 141);
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  width: 70px;
+  line-height: 50px;
+  margin: 10px;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 100px;
+  align-self: flex-end;
+}
+.container-item4 {
+  background-color: rgb(226, 38, 141);
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  width: 70px;
+  line-height: 50px;
+  margin: 10px;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 100px;
+}
+.container-item5 {
+  background-color: rgb(226, 38, 141);
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  width: 70px;
+  line-height: 50px;
+  margin: 10px;
+  flex-grow: 3;
+  flex-shrink: 1;
+  flex-basis: 100px;
+}

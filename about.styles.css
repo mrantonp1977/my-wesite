@@ -1,0 +1,39 @@
+body {
+  background-image: url(https://img.freepik.com/premium-photo/beautiful-pink-sunset-field-with-lake-green-grass-bushes-sky-with-red-clouds-sunshine-3d-illustration_76964-4360.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#service-image {
+  background: radial-gradient(circle, red 15%, blue 50%, green 10px);
+  height: 400px;
+  width: 400px;
+  display: inline-block;
+  
+
+}
+#service-img2 {
+  background: linear-gradient(to bottom, rgb(191, 12, 12), rgb(209, 169, 169));
+  height: 400px;
+  width: 400px;
+  
+  
+
+
+}
+.images {
+  text-align: center;
+  margin: 80px 0;
+  white-space: nowrap;
+
+}
+.images li {
+  display: inline-block;
+  width: 40%;
+
+}
+.images li img {
+  max-width: 100%;
+  margin: 20px 50px;
+  border-radius: 10%;
+}

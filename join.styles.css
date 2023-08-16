@@ -1,0 +1,32 @@
+.ihyt {
+  width: 500px;
+  height: 500px;
+  background-color: rgb(210, 184, 90);
+  display: inline-block;
+  margin: 20px 20px 20px 20px;
+}
+
+.ihyx {
+  width: 500px;
+  height: 500px;
+  background-color: rgb(13, 139, 87);
+  display: inline-block;
+  margin: 20px 20px 20px 20px;
+}
+
+.ihyp {
+  width: 500px;
+  height: 500px;
+  background-color: rgb(144, 127, 255);
+  display: inline-block;
+  margin: 20px 20px 20px 20px;
+}
+
+.ihyr {
+  width: 500px;
+  height: 500px;
+  background-color: rgb(21, 62, 109);
+  display: inline-block;
+  margin: 20px 20px 20px 20px;
+
+}
